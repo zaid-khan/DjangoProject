@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "DjangoProject",
+			"name": "DjangoProject"
+		}
+	],
+	"settings": {}
+}
