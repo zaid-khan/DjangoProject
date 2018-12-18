@@ -15,4 +15,5 @@
     <li><strong>Book containing word Das (Case insensitive):</strong> {{ book_contain_words_das }}</li>
     <li><strong>Genre containing word Atheism (Case insensitive):</strong> {{ genre_contain_atheism }}</li>
   </ul>
+  <p>You have visited this page {{ num_visits }}{% if num_visits == 1 %} time{% else %} times{% endif %}.</p>
 {% endblock %}
