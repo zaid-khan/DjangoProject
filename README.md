@@ -5,7 +5,7 @@ Note the database information in the settings file:
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'testdatabase',
+        'NAME': 'TechnovanzaQuiz',
         'USER': 'root',
         'PASSWORD': '1234',
         'HOST': 'localhost',
